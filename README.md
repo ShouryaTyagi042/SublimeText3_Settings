@@ -1,6 +1,6 @@
 # SublimeText3_Settings
 All the settings , packages and etc .
-folder location : C:\Users\Administrator(user name)\AppData\Roaming
+folder location : C:\Users\Administrator\AppData\Roaming\Sublime Text 3
 steps :
   1. remove the User folder of the fresh install
   2. clone your backup (only the User folder)
